@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config/cloud-config.iml" filepath="$PROJECT_DIR$/cloud-config/cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix/cloud-hystrix.iml" filepath="$PROJECT_DIR$/cloud-hystrix/cloud-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-hystrix2/cloud-hystrix2.iml" filepath="$PROJECT_DIR$/cloud-hystrix2/cloud-hystrix2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eruekaserver/eruekaserver.iml" filepath="$PROJECT_DIR$/eruekaserver/eruekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client2/eureka-client2.iml" filepath="$PROJECT_DIR$/eureka-client2/eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client3/eureka-client3.iml" filepath="$PROJECT_DIR$/eureka-client3/eureka-client3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-inherit-api/feign-inherit-api.iml" filepath="$PROJECT_DIR$/feign-inherit-api/feign-inherit-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-inherit-consumer/feign-inherit-consumer.iml" filepath="$PROJECT_DIR$/feign-inherit-consumer/feign-inherit-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-inherit-provider/feign-inherit-provider.iml" filepath="$PROJECT_DIR$/feign-inherit-provider/feign-inherit-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-test/hystrix-test.iml" filepath="$PROJECT_DIR$/hystrix-test/hystrix-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-native-demo/ribbon-native-demo.iml" filepath="$PROJECT_DIR$/ribbon-native-demo/ribbon-native-demo.iml" />
+    </modules>
+  </component>
+</project>

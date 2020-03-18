@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-config" />
+        <module name="cloud-hystrix" />
+        <module name="cloud-hystrix2" />
+        <module name="eruekaserver" />
+        <module name="eureka" />
+        <module name="eureka-client" />
+        <module name="eureka-client2" />
+        <module name="eureka-client3" />
+        <module name="feign" />
+        <module name="feign-inherit-api" />
+        <module name="feign-inherit-consumer" />
+        <module name="feign-inherit-provider" />
+        <module name="hystrix-test" />
+        <module name="ribbon" />
+        <module name="ribbon-native-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config" target="1.8" />
+      <module name="cloud-hystrix" target="1.8" />
+      <module name="cloud-hystrix2" target="1.8" />
+      <module name="demo" target="1.5" />
+      <module name="eruekaserver" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-client2" target="1.8" />
+      <module name="eureka-client3" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="feign-inherit-api" target="1.8" />
+      <module name="feign-inherit-consumer" target="1.5" />
+      <module name="feign-inherit-provider" target="1.5" />
+      <module name="hystrix-test" target="1.5" />
+      <module name="ribbon" target="1.5" />
+      <module name="ribbon-native-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\liu\springCloud\config\FeignConfigLogger.class
+com\liu\springCloud\config\FeignAuthRequestConifg.class
+com\liu\springCloud\config\User.class
+com\liu\springCloud\config\FeignConfig.class
